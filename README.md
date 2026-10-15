@@ -1,1 +1,6 @@
-# My-first-website
+<!DOCTYPE html>
+<html>
+<body>
+    <h1>My GitHub Website</h1>
+</body>
+</html>
